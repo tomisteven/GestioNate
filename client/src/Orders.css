@@ -1,0 +1,65 @@
+.contact-form .order{
+    border-bottom: green solid 2px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    padding: .7em;
+    border: none;
+    background: none;
+    outline: 0;
+    color: #fff;
+    border-bottom: 1px solid #09812d;
+  }
+  .contact-form .button-order{
+    background-color: rgb(8, 93, 26);
+   
+    width: 100%;
+    padding: .7em;
+    border: none;
+    
+    outline: 0;
+    color: #fff;
+    border-bottom: 1px solid #cf2fd4;
+    border: none;
+
+    cursor: pointer;
+  }
+  
+
+  /* order search */
+  .cont-search{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-bottom: 2px solid  #000000;
+  border-top: 2px solid #000000;
+  }
+  .cont-search .search{
+    width: 250px;
+    height: 25px;
+    box-shadow: 0px 0px 2px #000;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  .cont-search h5{
+    margin: 0px 25px 0px 25px;
+    position: relative;
+    top: 3px;
+    font-size: 16px;
+  }
+
+  .div-search{
+    
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    
+  }
+  
+
+  .btn-info{
+    background-color: transparent;
+    margin: 0px 0px 7px 5px;
+    cursor: pointer;
+  }
